@@ -15,4 +15,8 @@ A comprehensive revenue analytics dashboard for a fictional mid-sized commercial
 
 **Tools:** Power BI · DAX · Power Query · Data Modeling
 
+---
+
+![Dashboard](https://github.com/Ajtech27/NexaBank-Revenue-Profitability-Dashboard---PowerBI/blob/main/Bank%20Analytics.png)
+
  
